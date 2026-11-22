@@ -55,16 +55,14 @@ Goal-Stack Planning and Uniform Cost Search
 
 ## practical 11
 
-### LoanHub - Professional Digital Lending & Fintech Platform
- small rule-based expert system.
+### Smart Crop Irrigation AI System
 
-🔗 [View Project Repository](https://github.com/abhishekdaramoni-spec/loanhub)
+🔗 [View Project Repository](https://github.com/abhishekdaramoni-spec/crop_irregation/tree/master)
 
 ## practical 12
 
-### LoanHub - Professional Digital Lending & Fintech Platform
- small rule-based expert system.
+### AI Mentor – Intelligent AI/ML Educational Chatbot
 
-🔗 [View Project Repository](https://github.com/abhishekdaramoni-spec/loanhub)
+🔗 [View Project Repository](https://github.com/abhishekdaramoni-spec/AIML-CHATBOT-)
 
 
