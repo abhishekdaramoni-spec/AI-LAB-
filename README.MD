@@ -49,9 +49,9 @@ Goal-Stack Planning and Uniform Cost Search
 
 ## practical 10
 
-### 
+### policy-based-decision-making-in-crop
 
-🔗 [View Project Repository]()
+🔗 [View Project Repository](https://github.com/abhishekdaramoni-spec/policy-based-decision-making-in-crop)
 
 ## practical 11
 
